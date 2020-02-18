@@ -1,0 +1,77 @@
+body {
+    background-image: url("background.jpg");
+    color: rpg 100, 50, 20;
+}
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: 100px;
+}
+.center {
+    text-align: center;
+}
+.large {
+    font-size: 50px;
+    font-style: unset;
+}
+.shadow {
+    box-shadow: 10px 15px 15px black;
+    text-align: center;
+}
+
+* {
+    background-color: url("background.jpg");
+    font-size: medium;
+}
+
+.coding {
+    align-items:center;
+}
+
+.coding1 {
+    width: 70%;
+    height:auto;
+    align-items: center;
+}
+.small {
+    width: 35%;
+    height: 20%;
+}
+
+h2 {
+    font-size: 50px;
+    font-style: oblique;
+}
+
+h3 {
+    font-size: 50px;
+    font-style: oblique
+}
+
+p {
+    font-size: 25px;
+    font-style: unset;
+}
+
+h2{
+    text-decoration: underline;
+}
+h3{
+    text-decoration: underline;
+}
+
+header{ 
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    width: 100%
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+.smaller{
+    width: 70%;
+    height: 40%;
+}
